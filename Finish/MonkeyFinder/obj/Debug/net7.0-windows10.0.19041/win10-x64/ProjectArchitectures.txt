@@ -1,0 +1,1 @@
+C:\Users\mathy\dotnet-maui-workshop\Finish\MonkeyFinder\MonkeyFinder.csproj;x64
