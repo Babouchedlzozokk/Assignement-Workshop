@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathy\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj": {}
+    "C:\\Users\\mathy\\Assignement-Workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathy\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj": {
+    "C:\\Users\\mathy\\Assignement-Workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathy\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
+        "projectUniqueName": "C:\\Users\\mathy\\Assignement-Workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
         "projectName": "MonkeyFinder",
-        "projectPath": "C:\\Users\\mathy\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
+        "projectPath": "C:\\Users\\mathy\\Assignement-Workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
         "packagesPath": "C:\\Users\\mathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathy\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\obj\\",
+        "outputPath": "C:\\Users\\mathy\\Assignement-Workshop\\Finish\\MonkeyFinder\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -63,7 +63,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.1.0, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -84,10 +84,6 @@
               "target": "Package",
               "version": "[7.0.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[7.0.0, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
@@ -185,7 +181,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.1.0, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -206,10 +202,6 @@
               "target": "Package",
               "version": "[7.0.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[7.0.0, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
@@ -252,7 +244,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.1.0, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -273,10 +265,6 @@
               "target": "Package",
               "version": "[7.0.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[7.0.0, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
@@ -320,7 +308,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.1.0, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -341,10 +329,6 @@
               "target": "Package",
               "version": "[7.0.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[7.0.0, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",

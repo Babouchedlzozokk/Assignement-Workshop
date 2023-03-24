@@ -10,7 +10,7 @@
     Title="Comments"
     x:DataType="viewmodel:MonkeysViewModel">
     <Grid
-        ColumnDefinitions="*,*"
+        ColumnDefinitions="*,*,*"
         ColumnSpacing="5"
         RowDefinitions="*,Auto"
         RowSpacing="0"
@@ -26,6 +26,7 @@
                     <CollectionView.EmptyView>
                         <StackLayout Padding="100">
                             <Image
+                                    Grid.Column="1"
                                     HorizontalOptions="Center"
                                     HeightRequest="160"
                                     WidthRequest="160"
@@ -64,7 +65,7 @@
 
         <Button
             Grid.Row="1"
-            Grid.Column="0"
+            Grid.Column="1"
             Margin="8"
             Command="{Binding GetCommentCommand}"
             IsEnabled="{Binding IsNotBusy}"

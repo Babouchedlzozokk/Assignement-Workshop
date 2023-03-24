@@ -12,27 +12,27 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = MonkeyFinder
-build_property.ProjectDir = C:\Users\mathy\dotnet-maui-workshop\Finish\MonkeyFinder\
+build_property.ProjectDir = C:\Users\mathy\Assignement-Workshop\Finish\MonkeyFinder\
 
-[C:/Users/mathy/dotnet-maui-workshop/Finish/MonkeyFinder/App.xaml]
+[C:/Users/mathy/Assignement-Workshop/Finish/MonkeyFinder/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/mathy/dotnet-maui-workshop/Finish/MonkeyFinder/AppShell.xaml]
+[C:/Users/mathy/Assignement-Workshop/Finish/MonkeyFinder/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/mathy/dotnet-maui-workshop/Finish/MonkeyFinder/View/DetailsPage.xaml]
+[C:/Users/mathy/Assignement-Workshop/Finish/MonkeyFinder/View/DetailsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.DetailsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\DetailsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\DetailsPage.xaml
 
-[C:/Users/mathy/dotnet-maui-workshop/Finish/MonkeyFinder/View/MainPage.xaml]
+[C:/Users/mathy/Assignement-Workshop/Finish/MonkeyFinder/View/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml

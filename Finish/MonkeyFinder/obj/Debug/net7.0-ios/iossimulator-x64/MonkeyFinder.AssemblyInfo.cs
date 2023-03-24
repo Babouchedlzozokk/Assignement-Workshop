@@ -19,7 +19,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyTitleAttribute("MonkeyFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS16.1")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS14.2")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS16.1")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
 

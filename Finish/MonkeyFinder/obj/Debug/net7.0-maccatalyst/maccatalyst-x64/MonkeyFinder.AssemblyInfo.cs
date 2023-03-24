@@ -19,7 +19,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyTitleAttribute("MonkeyFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("MacCatalyst16.1")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("MacCatalyst14.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("MacCatalyst16.1")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
 

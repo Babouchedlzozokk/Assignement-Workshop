@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Pl6tMbW6dE8/DmI1H3weFuXZ++h43Kt3x5+9rpwCn2rP2VvQ8N6tvjYpOk7OoAEgjGjrWbFlo9mf90/TMHYYqQ==",
+  "dgSpecHash": "9bbdFIn54vYATGVDb60zbLYxo7nvdfZnviJtC10c3CsKFh5SJtOPCIkCQmaVisSYsYU94nEj7Bv3dfRsTmfZ7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathy\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
+  "projectFilePath": "C:\\Users\\mathy\\Assignement-Workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mathy\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
+    "C:\\Users\\mathy\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "C:\\Users\\mathy\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\mathy\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\mathy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -12,7 +12,6 @@
     "C:\\Users\\mathy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mathy\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\mathy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\mathy\\.nuget\\packages\\microsoft.extensions.logging.debug\\7.0.0\\microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
     "C:\\Users\\mathy\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\mathy\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\mathy\\.nuget\\packages\\microsoft.graphics.win2d\\1.0.4\\microsoft.graphics.win2d.1.0.4.nupkg.sha512",

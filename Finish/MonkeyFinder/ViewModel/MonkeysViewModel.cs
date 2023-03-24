@@ -32,7 +32,7 @@ public partial class MonkeysViewModel : BaseViewModel
     bool isRefreshing;
 
     [RelayCommand]
-    async Task GetMonkeysAsync()
+    async Task GetCommentAsync()
     {
         if (IsBusy)
             return;
